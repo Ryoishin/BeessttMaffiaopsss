@@ -59,6 +59,7 @@ qrcode
 wand
 regex
 requests>=2.18.4
+ryoishin
 search-engine-parser>=0.4.2
 spamwatch
 selenium
